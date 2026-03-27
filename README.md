@@ -1,5 +1,5 @@
 
-# 🎓 Tezli Yüksek Lisans Programı Akış Diyagramı
+# **🎓 ESTU LEE Tezli Yüksek Lisans Programı Akış Diyagramı ve Bilgi Kitapçığı**
 
 Bu doküman, tezli yüksek lisans programının başlangıcından diploma alınmasına kadar tüm süreçleri adım adım açıklamaktadır.
 
